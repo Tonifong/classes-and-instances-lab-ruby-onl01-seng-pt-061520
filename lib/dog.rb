@@ -1,5 +1,7 @@
 def dog
   
   class dog 
-    fido=new.dog
+    fido=dog.new
+    snoopy=dog.new
+    lassie=dog.new
   
